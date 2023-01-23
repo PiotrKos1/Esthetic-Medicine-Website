@@ -55,8 +55,7 @@ nav {
 	width: 400px;
 	z-index: 5;
 	text-align: center;
-	font-weight: bold;
-	font-style: italic;
+	font-size: 26px;
 	color: $main-color;
 }
 
@@ -64,7 +63,6 @@ nav {
 	width: 130px;
 	height: 40px;
 	text-transform: uppercase;
-	font-weight: bold;
 	border-radius: 10px;
 	background: none;
 	color: $main-color;
@@ -147,6 +145,7 @@ h1 {
 
 .adventage-box {
 	text-align: center;
+	padding: 50px;
 }
 
 .adventage-box i {
@@ -215,6 +214,7 @@ h3 {
 	color: black;
 }
 
+
 .bi-instagram {
 	color: rgb(236, 136, 153);
 }
@@ -256,9 +256,6 @@ footer {
 		padding: 0 10px 0 10px;
 	}
 	.container {
-		padding: 0 20px 0 20px;
-	}
-	.contact-container {
 		padding: 0 20px 0 20px;
 	}
 	footer {
